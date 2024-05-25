@@ -6,9 +6,10 @@
 <h3>레포 용도</h3>
 <h5>오픈 소프트웨어를 다루기 위해 필수적으로 요구되는 스킬인 깃과 깃허브를 다루는 능력을 배양하기 위해 설계되었고, 깃을 자유롭게 사용하기 위해 필수적으로 요구되는 셸 스크립트 언어의 기본적인 지식을 습득하고 실습하기 위함이다.
 </h5>
-<img src=(https://github.com/yebin29/OSS12/blob/main/%EC%98%BE%EC%86%8C.jpg) width="50" height="50">
+<img src=옾소.jpg width="200" height="100">
 
-|제목|강의 내용|
+#
+|OSS|강의 내용|
 |------|------|
 [2주차](https://github.com/yebin29/OSS12/blob/main/OSS/2%EC%A3%BC%EC%B0%A8.pdf)|Markup Language, 깃 시작하기|
 [3주차](https://github.com/yebin29/OSS12/blob/main/OSS/3%EC%A3%BC%EC%B0%A8.pdf)|버전관리 1.저장소 만들기 2.커밋 3.작업 돌리기|
