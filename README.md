@@ -1,4 +1,4 @@
-# OSS12# 오픈소스
+#오픈소스
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=header&text=202302339%20김예빈&fontSize=80&fontColor=black)
 <div align=center>
