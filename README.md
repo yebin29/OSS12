@@ -22,10 +22,11 @@
 [12주차](https://github.com/yebin29/OSS12/blob/main/OSS/12%EC%A3%BC%EC%B0%A8.pdf)|sed사용법 : 찾은 문자열 바꾸기|
 
 <h1>oss</h1>
-각 주차에 대한 필기
+각 주차에 대한 필기에 대한 자
 
 
 <h1>sample</h1>
+수업시간에 사용할 예시 자료이다.
 
 
 
